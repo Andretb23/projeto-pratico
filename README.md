@@ -11,3 +11,5 @@ O formato utilizado é **MAJOR.MINOR.PATCH** (exemplo: `v1.0.0`), onde cada núm
 **PATCH (Correção):** É incrementado quando apenas corrigimos bugs ou pequenos erros, sem adicionar novas funções e sem quebrar nada.
 
 eu que escrevi professor so pedi para i.a polir o texto kk.
+
+ALTERACAO PARA ADICIONAR A AREA DE STAGE    
