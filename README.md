@@ -12,4 +12,4 @@ O formato utilizado é **MAJOR.MINOR.PATCH** (exemplo: `v1.0.0`), onde cada núm
 
 eu que escrevi professor so pedi para i.a polir o texto kk.
 
-ALTERACAO PARA ADICIONAR A AREA DE STAGE    
+ALTERACAO PARA ADICIONAR A AREA DE STAGE.
